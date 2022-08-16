@@ -1,1 +1,4 @@
-﻿Console.WriteLine("2 Hello, World!");
+﻿Console.Write("Enter ur name");
+string username = Console.ReadLine();
+Console.Write("Привет, ");
+Console.Write(username);
